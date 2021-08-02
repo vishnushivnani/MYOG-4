@@ -304,11 +304,11 @@ WinGreetings_Img3 = loadImage("Sprites/Images/Screen_Imgs/WinScreen_Imgs/victory
   "Sprites/Images/zombiefiles/png/female/Dead/Dead (11).png","Sprites/Images/zombiefiles/png/female/Dead/Dead (12).png",)
  
 
-  ZombieW_Walk = loadAnimation("Sprites/Images/zombiefiles/png/female/walk/Walk (1).png","Sprites/Images/zombiefiles/png/female/walk/Walk (2).png",
-  "Sprites/Images/zombiefiles/png/female/walk/Walk (3).png","Sprites/Images/zombiefiles/png/female/walk/Walk (4).png",
-  "Sprites/Images/zombiefiles/png/female/walk/Walk (5).png","Sprites/Images/zombiefiles/png/female/walk/Walk (6).png",
-  "Sprites/Images/zombiefiles/png/female/walk/Walk (7).png","Sprites/Images/zombiefiles/png/female/walk/Walk (8).png",
-  "Sprites/Images/zombiefiles/png/female/walk/Walk (9).png","Sprites/Images/zombiefiles/png/female/walk/Walk (10).png",)
+  ZombieW_Walk = loadAnimation("Sprites/Images/zombiefiles/png/female/walk/Walk (1).png","Sprites/Images/zombiefiles/png/female/Walk/Walk (2).png",
+  "Sprites/Images/zombiefiles/png/female/Walk/Walk (3).png","Sprites/Images/zombiefiles/png/female/Walk/Walk (4).png",
+  "Sprites/Images/zombiefiles/png/female/Walk/Walk (5).png","Sprites/Images/zombiefiles/png/female/Walk/Walk (6).png",
+  "Sprites/Images/zombiefiles/png/female/Walk/Walk (7).png","Sprites/Images/zombiefiles/png/female/Walk/Walk (8).png",
+  "Sprites/Images/zombiefiles/png/female/Walk/Walk (9).png","Sprites/Images/zombiefiles/png/female/Walk/Walk (10).png",)
 
   Stage2_Img = loadImage("Stage2-Battleground.jpg")
 
